@@ -1,2 +1,4 @@
 # country-insights
-An API who gives insights for countries 
+
+* _An API who gives insights about countries._
+
